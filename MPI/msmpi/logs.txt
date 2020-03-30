@@ -1,1 +1,2 @@
  gcc -o mpi_hello_world.exe mpi_hello_world.c -l msmpi -L "C:\Program Files (x86)\Microsoft SDKs\MPI\Lib\x64" -I "C:\Program Files (x86)\Microsoft SDKs\MPI\Include"
+ gcc -o mpi_prime mpi_prime.c -I "msmpi" -L "msmpi" -l msmpi

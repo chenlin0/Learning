@@ -1,0 +1,11 @@
+﻿  正在验证源
+  正在将源远程复制到“localhost”
+  正在验证体系结构
+  正在验证体系结构
+  正在启动远程生成
+  正在编译源:
+  Mandelbrot.cpp
+D:\000\Project\C\Learning\MPI\LoadingBalancing\Mandelbrot\Mandelbrot.cpp(3,9): error : mpi.h: No such file or directory
+D:\000\Project\C\Learning\MPI\LoadingBalancing\Mandelbrot\Mandelbrot.cpp(3,9): error :  #include<mpi.h>
+D:\000\Project\C\Learning\MPI\LoadingBalancing\Mandelbrot\Mandelbrot.cpp(3,9): error :          ^~~~~~~
+D:\000\Project\C\Learning\MPI\LoadingBalancing\Mandelbrot\Mandelbrot.cpp(3,9): error : compilation terminated.
